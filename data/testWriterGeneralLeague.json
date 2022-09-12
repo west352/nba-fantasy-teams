@@ -1,0 +1,26 @@
+{
+    "basketball league": [{
+        "name": "Milwaukee Bucks",
+        "team": [
+            {
+                "point per game": "30.5",
+                "name": "Giannis Antetokounmpo",
+                "rebound per game": "12.5",
+                "assist per game": "5.4"
+            },
+            {
+                "point per game": "23.5",
+                "name": "Kris Middleton",
+                "rebound per game": "7.3",
+                "assist per game": "6.1"
+            },
+            {
+                "point per game": "20.0",
+                "name": "True Holiday",
+                "rebound per game": "6.9",
+                "assist per game": "7.8"
+            }
+        ]
+    }],
+    "name": "National Basketball Association"
+}

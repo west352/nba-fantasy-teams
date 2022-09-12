@@ -1,0 +1,29 @@
+{
+  "basketball league": [
+    {
+      "team": [
+        {
+          "name": "Lebron James",
+          "point per game": "25.5",
+          "assist per game": "8.7",
+          "rebound per game": "8.5"
+
+        },
+        {
+          "name": "Anthony Davis",
+          "point per game": "28.3",
+          "assist per game": "5.0",
+          "rebound per game": "3.5"
+        },
+        {
+          "name": "Russell Westbrook",
+          "point per game": "23.0",
+          "assist per game": "12.2",
+          "rebound per game": "10.5"
+        }
+      ],
+      "name": "Los Angles Lakers"
+    }
+  ],
+  "name": "National Basketball Association"
+}

@@ -1,0 +1,63 @@
+{
+    "basketball league": [
+        {
+            "name": "Los Angles Lakers",
+            "team": [
+                {
+                    "point per game": "23.0",
+                    "name": "Lebron",
+                    "rebound per game": "6.0",
+                    "assist per game": "5.0"
+                },
+                {
+                    "point per game": "28.3",
+                    "name": "Anthony Davis",
+                    "rebound per game": "3.5",
+                    "assist per game": "5.0"
+                },
+                {
+                    "point per game": "23.0",
+                    "name": "Russell Westbrook",
+                    "rebound per game": "10.5",
+                    "assist per game": "12.2"
+                },
+                {
+                    "point per game": "23.9",
+                    "name": "THT",
+                    "rebound per game": "12.0",
+                    "assist per game": "34.0"
+                },
+                {
+                    "point per game": "35.0",
+                    "name": "West",
+                    "rebound per game": "5.0",
+                    "assist per game": "5.0"
+                }
+            ]
+        },
+        {
+            "name": "Milwaukee Bucks",
+            "team": [
+                {
+                    "point per game": "30.5",
+                    "name": "Giannis Antetokounmpo",
+                    "rebound per game": "12.5",
+                    "assist per game": "5.4"
+                },
+                {
+                    "point per game": "23.5",
+                    "name": "Kris Middleton",
+                    "rebound per game": "7.3",
+                    "assist per game": "6.1"
+                },
+                {
+                    "point per game": "20.0",
+                    "name": "True Holiday",
+                    "rebound per game": "6.5",
+                    "assist per game": "7.8"
+                }
+            ]
+        }
+    ],
+    "name": "National Basketball Association"
+}
